@@ -1,7 +1,7 @@
 name: safe_convert
 description: safe convert for json model
 version: 0.0.1
-homepage:
+homepage: https://github.com/hss01248/safe_convert
 
 environment:
   sdk: '>=2.19.0 <3.0.0'
